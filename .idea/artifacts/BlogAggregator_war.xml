@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BlogAggregator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="untitled.war">
+      <element id="artifact" artifact-name="BlogAggregator:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="JPA 2.0-2.0" />
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+          <element id="library" level="application" name="org.json:json:20150729" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

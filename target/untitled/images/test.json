@@ -1,0 +1,90 @@
+{
+  "_id": {
+    "$oid": "5644bbb44dee941d5cfd2015"
+  },
+  "Grocery": {
+    "Beef": {
+      "Parts": [
+        "beef rib",
+        "beef chuck",
+        "beef brisket",
+        "beef plate",
+        "beef flank",
+        "beef short loin",
+        "beef sirloin",
+        "beef tenderloin",
+        "beef top sirloin",
+        "beef bottom Sirloin",
+        "beef ground"
+      ]
+    },
+    "Lamb": {
+      "Parts": [
+        "lamb head",
+        "lamb hirloin(sytle b only",
+        "lamb leg(style a)",
+        "lamb leg(b)",
+        "lamb loin",
+        "lamb flank",
+        "lamb breast",
+        "lamb rock",
+        "lamb shoulder",
+        "lamb nick",
+        "lamb foreshonk",
+        "lamb hindshank",
+        "lamb feet(trotters)"
+      ]
+    },
+    "Goat": {
+      "Parts": [
+        "goat silver side",
+        "goat rump",
+        "goat leg cuts",
+        "goat knuckle",
+        "goat rump top side",
+        "goat short loin",
+        "goat loin",
+        "goat cap off",
+        "goat rack frenched",
+        "goat rack",
+        "goat square cut shoulder",
+        "goat nick"
+      ]
+    },
+    "Pork": {
+      "Parts": [
+        "pork bone in",
+        "pork boneless",
+        "pork picnic steak)",
+        "pork cusion meat",
+        "pork shoulder bone-in",
+        "pork shoulder boneless",
+        "pork loin",
+        "pork cap off",
+        "pork loin boneless",
+        "pork leg",
+        "pork chops",
+        "pork rib"
+      ]
+    },
+    "Chicken": {
+      "Parts": [
+        "chicken whole chicken",
+        "chicken poultry half",
+        "chicken breast",
+        "chicken breast quarter",
+        "chicken breast halves",
+        "chicken tenderloin",
+        "chicken wing",
+        "chicken drummette",
+        "chicken wingette",
+        "chicken wing tip",
+        "chicken leg quarters",
+        "chicken leg",
+        "chicken thigh",
+        "chicken drumstick",
+        "chicken giblets"
+      ]
+    }
+  }
+}

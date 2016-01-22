@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GroceryTask:war exploded">
+    <output-path>$PROJECT_DIR$/target/GroceryTask</output-path>
+    <root id="root" />
+  </artifact>
+</component>
